@@ -1,38 +1,41 @@
 # ⚡ EasyZsh 
 
-> **Trasforma il tuo terminale in una workstation professionale con un solo comando.**  
-> Un manager interattivo in Python per distribuzioni Debian/Ubuntu (Parrot OS, Kali Linux, Mint).
+> **Transform your terminal into a professional workstation with a single command.**  
+> An interactive Python manager for Debian/Ubuntu-based distributions (Parrot OS, Kali Linux, Mint).
 
 ---
 
-## 🚀 Perché EasyZsh?
-Configurare manualmente Zsh, Oh My Zsh e i plugin ogni volta che installi un nuovo sistema è una noia. **EasyZsh** automatizza tutto il processo attraverso un menu numerico intuitivo e banner spettacolari.
+## 🚀 Why EasyZsh?
+Manually configuring Zsh, Oh My Zsh, and plugins every time you install a new system is tedious. EasyZsh automates the entire process through an intuitive numbered menu and eye-catching banners.
 
-### 🔥 Cosa fa "tutto lui"?
-- ✅ **System Health:** Update, Full Upgrade e pulizia pacchetti (`autoremove`) automatici.
-- ✅ **Core Tools:** Installa istantaneamente `git`, `curl` e le dipendenze base.
-- ✅ **Zsh Master:** Installa Zsh e lo imposta come shell predefinita.
-- ✅ **Oh My Zsh:** Setup completo del framework in modalità "unattended".
-- ✅ **Power-User Plugins:** Installa e configura `autosuggestions` e `syntax-highlighting`.
-- ✅ **Safety First:** Sistema di backup automatico del file `.zshrc` prima di ogni modifica.
-- ✅ **Smart Config:** Salva le tue preferenze in un file `config.json` per "ricordarsi" di te.
+### 🔥 What does EasyZsh handle for you?
+- ✅ **System Health:** Automatic Update, Full Upgrade, and package cleanup (`autoremove`).
+- ✅ **Core Tools:** Instantly installs `git`, `curl` and essential base dependencies.
+- ✅ **Zsh Master:** Installs Zsh and sets it as the default shell.
+- ✅ **Oh My Zsh:** Complete framework setup in unattended mode.
+- ✅ **Power-User Plugins:** Installs and configures `autosuggestions` and `syntax-highlighting`.
+- ✅ **Safety First:** Automatic backup of the `.zshrc` file before every change.
+- ✅ **Smart Config:** Saves your preferences in a `config.json` file to remember your setup.
 
 ---
 
-## 📥 Installazione Rapida (One-Liner)
-Non serve scaricare nulla a mano. Incolla questo nel tuo terminale e premi Invio:
+## 📥 Quick Installation (One-Liner)
+No need to download anything manually. Paste this into your terminal and press Enter:
 
 ```bash
 curl -sSL https://raw.githubusercontent.com | bash
 ```
-Dopo l'installazione, riavvia il terminale e scrivi semplicemente:
+After installation, restart your terminal and simply type:
 ```bash
 easyzsh
 ```
 
-# 🛠️ Requisiti
+# 🛠️ Requirements
 - OS: Ubuntu, Debian, Parrot OS, Kali Linux, Pop!_OS.
-- Python: 3.x (lo script di installazione lo controlla per te).
+- Python: 3.x (the installation script checks this for you).
 
-# 📸 Anteprima Menu
+# 📸 Menu Preview
+<img width="1151" height="629" alt="image" src="https://github.com/user-attachments/assets/9afdd3a4-d954-45e9-ae78-23d180f3fc67" />
+
+
 
