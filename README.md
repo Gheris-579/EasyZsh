@@ -29,3 +29,10 @@ Dopo l'installazione, riavvia il terminale e scrivi semplicemente:
 ```bash
 easyzsh
 ```
+
+# 🛠️ Requisiti
+- OS: Ubuntu, Debian, Parrot OS, Kali Linux, Pop!_OS.
+- Python: 3.x (lo script di installazione lo controlla per te).
+
+# 📸 Anteprima Menu
+
