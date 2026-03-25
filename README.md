@@ -1,45 +1,31 @@
-# EasyZsh
+# ⚡ EasyZsh 
 
-EasyZsh is an interactive Zsh setup and terminal customization manager for Debian-based Linux distributions.
+> **Trasforma il tuo terminale in una workstation professionale con un solo comando.**  
+> Un manager interattivo in Python per distribuzioni Debian/Ubuntu (Parrot OS, Kali Linux, Mint).
 
-## Features
+---
 
-- System update
-- Full upgrade
-- Autoremove cleanup
-- Zsh installation
-- Git and Curl installation
-- Oh My Zsh installation
-- Guided terminal setup
-- Plugin configuration support
-- Interactive menu with banners
+## 🚀 Perché EasyZsh?
+Configurare manualmente Zsh, Oh My Zsh e i plugin ogni volta che installi un nuovo sistema è una noia. **EasyZsh** automatizza tutto il processo attraverso un menu numerico intuitivo e banner spettacolari.
 
-## Supported Systems
+### 🔥 Cosa fa "tutto lui"?
+- ✅ **System Health:** Update, Full Upgrade e pulizia pacchetti (`autoremove`) automatici.
+- ✅ **Core Tools:** Installa istantaneamente `git`, `curl` e le dipendenze base.
+- ✅ **Zsh Master:** Installa Zsh e lo imposta come shell predefinita.
+- ✅ **Oh My Zsh:** Setup completo del framework in modalità "unattended".
+- ✅ **Power-User Plugins:** Installa e configura `autosuggestions` e `syntax-highlighting`.
+- ✅ **Safety First:** Sistema di backup automatico del file `.zshrc` prima di ogni modifica.
+- ✅ **Smart Config:** Salva le tue preferenze in un file `config.json` per "ricordarsi" di te.
 
-EasyZsh is designed for Linux distributions that use `apt`, including:
+---
 
-- Ubuntu
-- Debian
-- Linux Mint
-- Pop!_OS
-- Kali Linux
-- Parrot OS
-
-## Requirements
-
-Before running EasyZsh, make sure you have:
-
-- Python 3 installed
-- `apt` package manager
-- sudo privileges
-- Internet connection
-
-## Installation
-
-Clone the repository:
+## 📥 Installazione Rapida (One-Liner)
+Non serve scaricare nulla a mano. Incolla questo nel tuo terminale e premi Invio:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/EasyZsh.git
-cd EasyZsh
-python3 easyzsh
+curl -sSL https://raw.githubusercontent.com | bash
+```
+Dopo l'installazione, riavvia il terminale e scrivi semplicemente:
+```bash
+easyzsh
 ```
