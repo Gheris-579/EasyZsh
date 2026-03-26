@@ -1,4 +1,4 @@
-# ⚡ EasyZsh 
+# ⚡ EasyZsh  **v0.2.0**
 
 > **Transform your terminal into a professional workstation with a single command.**  
 > An interactive Python manager for Debian/Ubuntu-based distributions (Parrot OS, Kali Linux, Mint).
