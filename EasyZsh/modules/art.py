@@ -11,6 +11,7 @@ Cy = '\033[1;36m'
 Wh = '\033[1;37m'
 
 
+VERSION = "0.2.0"
 
 
 def clear():
@@ -27,6 +28,7 @@ helloprimo = f"""{Gr}
 //    888 888  "YeeP" 888 888  "88 88"    888 888 888   888,d88 "88 888 d,dP     888    d8P d88 d,dP  888 888 
 //                                                                               888                          
 //                                  {Wh}[ G ]  C O D E   B Y  GHERIS  [ D ]
+//                                              {Re}v{VERSION}{Re}
 {Wh}                          
 """
 
