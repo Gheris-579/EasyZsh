@@ -9,13 +9,16 @@
 Manually configuring Zsh, Oh My Zsh, and plugins every time you install a new system is tedious. EasyZsh automates the entire process through an intuitive numbered menu and eye-catching banners.
 
 ### 🔥 What does EasyZsh handle for you?
-- ✅ **System Health:** Automatic Update, Full Upgrade, and package cleanup (`autoremove`).
-- ✅ **Core Tools:** Instantly installs `git`, `curl` and essential base dependencies.
-- ✅ **Zsh Master:** Installs Zsh and sets it as the default shell.
-- ✅ **Oh My Zsh:** Complete framework setup in unattended mode.
-- ✅ **Power-User Plugins:** Installs and configures `autosuggestions` and `syntax-highlighting`.
-- ✅ **Safety First:** Automatic backup of the `.zshrc` file before every change.
-- ✅ **Smart Config:** Saves your preferences in a `config.json` file to remember your setup.
+- ✅ System Maintenance: Update, full upgrade, and cleanup from one place.
+- ✅ Essential Dependencies: Installs git, curl, and required base packages automatically.
+- ✅ Zsh Setup: Installs Zsh and prepares it for daily use.
+- ✅ Oh My Zsh Installation: Sets up Oh My Zsh automatically in unattended mode.
+- ✅ User Zsh Configuration: Configures your user `.zshrc` with plugins, custom prompt, and improved defaults.
+- ✅ Root Zsh Configuration: Automatically relaunches with sudo when needed and configures root Zsh separately.
+- ✅ Productivity Plugins: Adds `zsh-autosuggestions` and `zsh-syntax-highlighting` for a better terminal experience.
+- ✅ Backup Protection: Creates a safety backup of `.zshrc` before every important change.
+- ✅ Smart Config Memory: Stores preferences in `config.json` to remember your setup.
+- ✅ Error-Aware Setup: Verifies files, paths, and dependencies before applying changes.
 
 ---
 
