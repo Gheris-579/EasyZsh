@@ -27,8 +27,8 @@ helloprimo = f"""{Gr}
 //    888 888 888   , 888 888 Y888 888P   888 888 888   888 ",d ,ee 888  Y88D   Y8b Y    d8P d8  Y88D 888 888 
 //    888 888  "YeeP" 888 888  "88 88"    888 888 888   888,d88 "88 888 d,dP     888    d8P d88 d,dP  888 888 
 //                                                                               888                          
-//                                  {Wh}[ G ]  C O D E   B Y  GHERIS  [ D ]
-//                                              {Re}v{VERSION}{Re}
+//                                  {Wh}[ G ]  C O D E   B Y  GHERIS  {Re}v{VERSION}{Re} [ D ]
+//                                              
 {Wh}                          
 """
 
