@@ -53,7 +53,8 @@ easyzsh
 
 
 # 📸 Menu Preview
-<img width="1151" height="629" alt="image" src="https://github.com/user-attachments/assets/9afdd3a4-d954-45e9-ae78-23d180f3fc67" />
+<img width="1169" height="704" alt="image" src="https://github.com/user-attachments/assets/c941f364-9368-4fe1-b1c6-a0689f2d07cd" />
+
 
 
 
