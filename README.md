@@ -43,7 +43,7 @@ easyzsh
 - **LICENSE:** The MIT license that protects the project’s source code.
 - **README.md:** The presentation page containing instructions, screenshots, and project information.
 - **config.json:** The file, created automatically, that stores the username and Zsh installation status.
-- **modules/init.py:** The required empty file that tells Python the folder contains modules.
+- **modules/__init__.py:** The required empty file that tells Python the folder contains modules.
 - **modules/core.py:** The “engine” that contains `run_task` and the `apt` system commands.
 - **modules/zsh_manager.py:** The “specialist” responsible for installing Oh My Zsh, plugins, and the custom prompt.
 - **modules/art.py:** Your “art gallery” containing the 11 ASCII banners and color codes (`Re`, `Gr`, `Blu`).
