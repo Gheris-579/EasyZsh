@@ -26,7 +26,7 @@ Manually configuring Zsh, Oh My Zsh, and plugins every time you install a new sy
 No need to download anything manually. Paste this into your terminal and press Enter:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/Gheris-579/EasyZsh/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/Gheris-579/EasyZsh/main/EasyZsh/install.sh | bash
 ```
 After installation, restart your terminal and simply type:
 ```bash
