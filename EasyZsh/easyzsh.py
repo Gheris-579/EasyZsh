@@ -91,7 +91,7 @@ def menu():
                 else:
                     zsh_manager.setup_zsh_plugin_root()
             elif opzione == 10:
-                zsh_manager.update_easyzsh()
+                core.update_easyzsh()
             elif opzione == 99:
                 art.clear()
                 print(art.banners_bye)
