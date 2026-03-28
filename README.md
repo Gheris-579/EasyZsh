@@ -9,16 +9,16 @@
 Manually configuring Zsh, Oh My Zsh, and plugins every time you install a new system is tedious. EasyZsh automates the entire process through an intuitive numbered menu and eye-catching banners.
 
 ### 🔥 What does EasyZsh handle for you?
-- ✅ System Maintenance: Update, full upgrade, and cleanup from one place.
-- ✅ Essential Dependencies: Installs git, curl, and required base packages automatically.
-- ✅ Zsh Setup: Installs Zsh and prepares it for daily use.
-- ✅ Oh My Zsh Installation: Sets up Oh My Zsh automatically in unattended mode.
-- ✅ User Zsh Configuration: Configures your user `.zshrc` with plugins, custom prompt, and improved defaults.
-- ✅ Root Zsh Configuration: Automatically relaunches with sudo when needed and configures root Zsh separately.
-- ✅ Productivity Plugins: Adds `zsh-autosuggestions` and `zsh-syntax-highlighting` for a better terminal experience.
-- ✅ Backup Protection: Creates a safety backup of `.zshrc` before every important change.
-- ✅ Smart Config Memory: Stores preferences in `config.json` to remember your setup.
-- ✅ Error-Aware Setup: Verifies files, paths, and dependencies before applying changes.
+*   ✅ **System Maintenance:** Handle `update`, `full-upgrade`, and `autoremove` from a single centralized menu.
+*   ✅ **Essential Dependencies:** Installs `git`, `curl`, and required base packages automatically.
+*   ✅ **Zsh Setup:** Installs Zsh and prepares it for daily use in seconds.
+*   ✅ **Oh My Zsh Installation:** Sets up the Oh My Zsh framework in *unattended* mode (no interruptions).
+*   ✅ **User Configuration:** Configures your user `.zshrc` with plugins, custom prompt, and improved defaults.
+*   ✅ **Root Zsh Configuration:** Automatically configures the **ROOT** shell (Red Prompt 🔴) with automatic plugin synchronization.
+*   ✅ **Productivity Plugins:** Adds `zsh-autosuggestions` and `zsh-syntax-highlighting` for a better terminal experience.
+*   ✅ **Backup Protection:** Creates a safety backup of `.zshrc` with a timestamp before every important change.
+*   ✅ **Smart Config Memory:** Stores preferences in `config.json` to remember your setup.
+*   ✅ **Error-Aware Setup:** Verifies files, paths, and dependencies before applying changes to prevent crashes.
 
 ---
 
