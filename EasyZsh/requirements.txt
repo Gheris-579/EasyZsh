@@ -1,0 +1,2 @@
+# EasyZsh uses standard Python libraries.
+# No external dependencies required for v0.2.0
