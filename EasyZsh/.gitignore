@@ -1,0 +1,20 @@
+# --- EasyZsh GitIgnore ---
+
+# Ignore personal configuration files
+config.json
+
+# Ignore all auto-generated .zshrc backups
+.zshrc.backup-*
+
+# Ignore Python bytecode and cache folders
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore OS-specific temporary files
+.DS_Store
+Thumbs.db
+
+# Ignore local environment or log files
+*.log
+.venv/
