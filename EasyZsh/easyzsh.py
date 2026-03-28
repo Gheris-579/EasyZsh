@@ -63,7 +63,7 @@ def menu():
             8, Configure Zsh for User 
             9, Configure Zsh Plugins for Root 
             10, Auto-Update\n 
-            99, Exit Bye 
+            99, Exit Bye 😭
             """)
         try:
             opzione = int(input(f"""\n{art.Re}┌─[{art.Cy}EasyZsh{art.Blu}~{art.Wh}@HOME{art.Re}]
