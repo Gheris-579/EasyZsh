@@ -37,6 +37,18 @@ easyzsh
 - OS: Ubuntu, Debian, Parrot OS, Kali Linux, Pop!_OS.
 - Python: 3.x (the installation script checks this for you).
 
+
+
+## 🛠️ Roadmap (Upcoming Features)
+
+We are constantly working to make EasyZsh even better. Here is what's coming next:
+
+*   🎨 **Powerlevel10k Integration:** Automatic setup for the most popular and fastest Zsh theme.
+*   📦 **Flatpak & Snap Support:** One-click installation for modern containerized applications.
+*   🐧 **Cross-Distro Compatibility:** Expanding support for Arch Linux (pacman) and Fedora (dnf).
+
+
+
 ## 🤝 Contributing
 Want to add a new banner or a new plugin? 
 1. **Fork** the Project
