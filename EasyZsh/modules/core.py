@@ -47,7 +47,7 @@ def system_cleanup():
 
 def update_easyzsh():
     art.clear()
-    art.banners_autoupdate()
+    print(art.banners_autoupdate)
     # La cartella dove install.sh ha clonato il progetto
     install_dir = Path.home() / ".easyzsh"
 
