@@ -37,6 +37,15 @@ easyzsh
 - OS: Ubuntu, Debian, Parrot OS, Kali Linux, Pop!_OS.
 - Python: 3.x (the installation script checks this for you).
 
+## 🤝 Contributing
+Want to add a new banner or a new plugin? 
+1. **Fork** the Project
+2. **Create** your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. **Commit** your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. **Push** to the Branch (`git push origin feature/AmazingFeature`)
+5. **Open** a Pull Request
+
+
 # 📂 Complete Project Structure
 - **easyzsh.py:** Il file principale (Main) che l'utente lancia per aprire il menu.
 - **install.sh:** The Bash script used for quick installation through the `curl` command.
