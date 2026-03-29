@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="ChatGPT Image 28 mar 2026, 23_02_44" src="https://github.com/user-attachments/assets/5f42efcc-cadd-46d6-ac72-899a49a4754e" />
+
+
 # ⚡ EasyZsh  **v0.2.0**
 
 > **Transform your terminal into a professional workstation with a single command.**  
